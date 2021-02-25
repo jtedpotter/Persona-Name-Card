@@ -1,0 +1,32 @@
+div.parent {
+    margin-left: 5%;
+}
+td.left {
+    width: 130px;
+}
+td.right {
+    text-align: left;
+}
+div.left {
+    width: 50%; 
+    height: 100px; 
+    float: left;
+    margin-left: 30px;
+    vertical-align: middle;
+}
+div.right {
+    height: 100px;
+    margin-left: 40%;
+    vertical-align: middle;
+}
+img {
+    border-radius: 50%;
+    border-color: gray; 
+    border-width: 2px;
+    border-style: solid;
+    height: 100px;
+    border-radius: 50%;
+  }
+  h1 {
+      font-size: 2em;
+  }
