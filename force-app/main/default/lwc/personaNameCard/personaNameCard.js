@@ -22,5 +22,6 @@ export default class userDetails extends LightningElement {
              this.title = data.fields.Title.value;
              this.MediumPhotoUrl = data.fields.MediumPhotoUrl.value;
          }
+         
      }
  }
